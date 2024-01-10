@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JPMaxim.github.io/catanGenerator/static/css/main.237e596e.css",
-    "main.js": "/JPMaxim.github.io/catanGenerator/static/js/main.2e0b8324.js",
-    "static/media/forest.png": "/JPMaxim.github.io/catanGenerator/static/media/forest.975ea9c60c2b0371e3e2.png",
-    "static/media/field.png": "/JPMaxim.github.io/catanGenerator/static/media/field.3667e146d60a7d8fa2c7.png",
-    "static/media/mountain.png": "/JPMaxim.github.io/catanGenerator/static/media/mountain.a2406eb0ddb17aabb4cd.png",
-    "static/media/hill.png": "/JPMaxim.github.io/catanGenerator/static/media/hill.c35b905e4ab5e72193b6.png",
-    "static/media/desert.png": "/JPMaxim.github.io/catanGenerator/static/media/desert.7661cbc4d677478e9963.png",
-    "static/media/pasture.png": "/JPMaxim.github.io/catanGenerator/static/media/pasture.6a84e272acbb82ce84bd.png",
-    "static/media/ocean.png": "/JPMaxim.github.io/catanGenerator/static/media/ocean.367e087d9959cfb2495c.png",
-    "index.html": "/JPMaxim.github.io/catanGenerator/index.html",
-    "main.237e596e.css.map": "/JPMaxim.github.io/catanGenerator/static/css/main.237e596e.css.map",
-    "main.2e0b8324.js.map": "/JPMaxim.github.io/catanGenerator/static/js/main.2e0b8324.js.map"
+    "main.css": "/catanGenerator/static/css/main.dbc40c96.css",
+    "main.js": "/catanGenerator/static/js/main.adbddc97.js",
+    "static/media/forest.png": "/catanGenerator/static/media/forest.975ea9c60c2b0371e3e2.png",
+    "static/media/field.png": "/catanGenerator/static/media/field.3667e146d60a7d8fa2c7.png",
+    "static/media/mountain.png": "/catanGenerator/static/media/mountain.a2406eb0ddb17aabb4cd.png",
+    "static/media/hill.png": "/catanGenerator/static/media/hill.c35b905e4ab5e72193b6.png",
+    "static/media/desert.png": "/catanGenerator/static/media/desert.7661cbc4d677478e9963.png",
+    "static/media/pasture.png": "/catanGenerator/static/media/pasture.6a84e272acbb82ce84bd.png",
+    "static/media/ocean.png": "/catanGenerator/static/media/ocean.367e087d9959cfb2495c.png",
+    "index.html": "/catanGenerator/index.html",
+    "main.dbc40c96.css.map": "/catanGenerator/static/css/main.dbc40c96.css.map",
+    "main.adbddc97.js.map": "/catanGenerator/static/js/main.adbddc97.js.map"
   },
   "entrypoints": [
-    "static/css/main.237e596e.css",
-    "static/js/main.2e0b8324.js"
+    "static/css/main.dbc40c96.css",
+    "static/js/main.adbddc97.js"
   ]
 }
