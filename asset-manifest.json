@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/catanGenerator/static/css/main.dbc40c96.css",
-    "main.js": "/catanGenerator/static/js/main.adbddc97.js",
+    "main.css": "/catanGenerator/static/css/main.6b403718.css",
+    "main.js": "/catanGenerator/static/js/main.db21f007.js",
     "static/media/forest.png": "/catanGenerator/static/media/forest.975ea9c60c2b0371e3e2.png",
     "static/media/field.png": "/catanGenerator/static/media/field.3667e146d60a7d8fa2c7.png",
     "static/media/mountain.png": "/catanGenerator/static/media/mountain.a2406eb0ddb17aabb4cd.png",
@@ -9,12 +9,37 @@
     "static/media/desert.png": "/catanGenerator/static/media/desert.7661cbc4d677478e9963.png",
     "static/media/pasture.png": "/catanGenerator/static/media/pasture.6a84e272acbb82ce84bd.png",
     "static/media/ocean.png": "/catanGenerator/static/media/ocean.367e087d9959cfb2495c.png",
+    "static/media/oreHarbour.png": "/catanGenerator/static/media/oreHarbour.3bd717db84ca323c62f0.png",
+    "static/media/wheatHarbour.png": "/catanGenerator/static/media/wheatHarbour.774e62aa04eb57fb34c2.png",
+    "static/media/threeToOneHarbour.png": "/catanGenerator/static/media/threeToOneHarbour.063d0a05bc7928cab0f3.png",
+    "static/media/sheepHarbour.png": "/catanGenerator/static/media/sheepHarbour.2cc0c36ce2da7e5e41b4.png",
+    "static/media/brickHarbour.png": "/catanGenerator/static/media/brickHarbour.23e594ef1556a9f7cd73.png",
+    "static/media/woodHarbour.png": "/catanGenerator/static/media/woodHarbour.2ba480d35efdbce2b230.png",
+    "static/media/l.png": "/catanGenerator/static/media/l.a0b131925d1fa682f660.png",
+    "static/media/p.png": "/catanGenerator/static/media/p.d2bb0377787a28f21ce3.png",
+    "static/media/k.png": "/catanGenerator/static/media/k.6a677b10f8d2d75f5a7b.png",
+    "static/media/e.png": "/catanGenerator/static/media/e.37d294ae652c7520245f.png",
+    "static/media/r.png": "/catanGenerator/static/media/r.6201da7346e530ab2e44.png",
+    "static/media/c.png": "/catanGenerator/static/media/c.3ac9314cd5754b1ca6f1.png",
+    "static/media/h.png": "/catanGenerator/static/media/h.48e505c607ede4cd3d63.png",
+    "static/media/i.png": "/catanGenerator/static/media/i.e4da493e86fcd09d30cb.png",
+    "static/media/j.png": "/catanGenerator/static/media/j.db0ea7b5ff457002a586.png",
+    "static/media/q.png": "/catanGenerator/static/media/q.22dfa7f2e81c19412473.png",
+    "static/media/f.png": "/catanGenerator/static/media/f.e348fad5d242a57b9b2f.png",
+    "static/media/b.png": "/catanGenerator/static/media/b.83b9bd6a9fa91065431c.png",
+    "static/media/o.png": "/catanGenerator/static/media/o.d53dd414bd99d9d44812.png",
+    "static/media/n.png": "/catanGenerator/static/media/n.45eb11859db0c689e3bb.png",
+    "static/media/m.png": "/catanGenerator/static/media/m.f853a034362deefbcb36.png",
+    "static/media/d.png": "/catanGenerator/static/media/d.b07970456032b4263cc9.png",
+    "static/media/g.png": "/catanGenerator/static/media/g.0113ec2c94d15e7512e5.png",
+    "static/media/a.png": "/catanGenerator/static/media/a.130c09e172d03ba658fb.png",
+    "static/media/robber.svg": "/catanGenerator/static/media/robber.d6f984074d0d7ed7d8f285583ff80f27.svg",
     "index.html": "/catanGenerator/index.html",
-    "main.dbc40c96.css.map": "/catanGenerator/static/css/main.dbc40c96.css.map",
-    "main.adbddc97.js.map": "/catanGenerator/static/js/main.adbddc97.js.map"
+    "main.6b403718.css.map": "/catanGenerator/static/css/main.6b403718.css.map",
+    "main.db21f007.js.map": "/catanGenerator/static/js/main.db21f007.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc40c96.css",
-    "static/js/main.adbddc97.js"
+    "static/css/main.6b403718.css",
+    "static/js/main.db21f007.js"
   ]
 }
