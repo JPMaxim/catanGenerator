@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/catanGenerator/static/css/main.8d02b6b3.css",
-    "main.js": "/catanGenerator/static/js/main.110c6e48.js",
+    "main.js": "/catanGenerator/static/js/main.b4897f56.js",
     "static/media/forest.png": "/catanGenerator/static/media/forest.975ea9c60c2b0371e3e2.png",
     "static/media/field.png": "/catanGenerator/static/media/field.3667e146d60a7d8fa2c7.png",
     "static/media/mountain.png": "/catanGenerator/static/media/mountain.a2406eb0ddb17aabb4cd.png",
@@ -36,10 +36,10 @@
     "static/media/robber.svg": "/catanGenerator/static/media/robber.d6f984074d0d7ed7d8f285583ff80f27.svg",
     "index.html": "/catanGenerator/index.html",
     "main.8d02b6b3.css.map": "/catanGenerator/static/css/main.8d02b6b3.css.map",
-    "main.110c6e48.js.map": "/catanGenerator/static/js/main.110c6e48.js.map"
+    "main.b4897f56.js.map": "/catanGenerator/static/js/main.b4897f56.js.map"
   },
   "entrypoints": [
     "static/css/main.8d02b6b3.css",
-    "static/js/main.110c6e48.js"
+    "static/js/main.b4897f56.js"
   ]
 }
